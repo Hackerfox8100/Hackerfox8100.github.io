@@ -13,11 +13,11 @@ title = "Blowfish"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [author]
-#   name = "Jenna Fox"
-#   image = "img/blowfish_logo.png"
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
+ [author]
+   name = "Jenna Fox"
+   image = "FoxBackground-2.jpg"
+   headline = "Super cool test tag line"
+   bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
