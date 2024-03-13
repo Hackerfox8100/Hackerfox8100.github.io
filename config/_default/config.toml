@@ -2,8 +2,8 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-# theme = "blowfish"
-# baseURL = "https://your_domain.com/"
+theme = "blowfish"
+baseURL = "https://jennafox.org
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
@@ -12,6 +12,7 @@ enableRobotsTXT = true
 paginate = 10
 summaryLength = 0
 
+timeout = 180000
 buildDrafts = false
 buildFuture = false
 
