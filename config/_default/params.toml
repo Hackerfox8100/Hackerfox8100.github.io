@@ -37,7 +37,7 @@ disableTextInHeader = false
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "homepage2.jpg"
+  homepageImage = "homepage2.png"
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
