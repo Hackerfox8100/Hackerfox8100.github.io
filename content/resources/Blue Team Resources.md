@@ -7,3 +7,4 @@ tags:
   - blueteam
 ---
 ## Blue Team Resources
+![Blue Team Title Image](assets/blueBackground.jpg)
