@@ -88,8 +88,8 @@ disableTextInHeader = false
   showTableOfContents = false
   showCards = false
   groupByYear = false
-  cardView = true
-  cardViewScreenWidth = true
+  cardView = false
+  cardViewScreenWidth = false
   constrainItemsWidth = false
 
 [sitemap]
