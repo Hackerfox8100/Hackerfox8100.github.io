@@ -42,8 +42,8 @@ disableTextInHeader = false
   showRecentItems = 15
   showMoreLink = false
   showMoreLinkDest = "/posts"
-  cardView = false
-  cardViewScreenWidth = false
+  cardView = true
+  cardViewScreenWidth = true
   layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
@@ -51,7 +51,7 @@ disableTextInHeader = false
   showViews = false
   showLikes = false
   showDateOnlyInArticle = true
-  showDateUpdated = false
+  showDateUpdated = true
   showAuthor = false
   showHero = false
   # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
@@ -87,9 +87,9 @@ disableTextInHeader = false
   showLikes = false
   showTableOfContents = false
   showCards = false
-  groupByYear = true
-  cardView = false
-  cardViewScreenWidth = false
+  groupByYear = false
+  cardView = true
+  cardViewScreenWidth = true
   constrainItemsWidth = false
 
 [sitemap]
