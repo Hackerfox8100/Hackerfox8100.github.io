@@ -14,4 +14,4 @@ I began my offensive cybersecurity journey my freshman year of college when I st
 
 ## Methodology
 
-I think that understanding the methodology behind offensive cybersecurity tasks like penetration testing is a great first step in familiarizing yourself with the larger picture of "hacking". I think that the common perception of hacking has led to   
+I think that understanding the methodology behind offensive cybersecurity tasks like penetration testing is a great first step in familiarizing yourself with the larger picture of "hacking". I think that the common perception of hacking has led to 
