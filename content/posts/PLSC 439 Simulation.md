@@ -23,7 +23,8 @@ tags:
  * Other committees, especially government ones will likely not want to talk to us
 	 * In order to make sure we get the attention we need, it might be advantageous to offer "after action reviews" to the different committees after each ways.
 	 * The goal would be to 
-## News Item 1
+## Day 1 (4/16)
+#### News Item 1
 * ISIS-K committed a deadly terrorist attack against Kabul, the capitol of Afghanistan, with a series of suicide bombers
 * 25 people were killed and 200 were injured in the three attacks
 * Afghan government associated with the Taliban government blamed attacks on ISIS-K
@@ -35,7 +36,7 @@ Our plan as the social media companies was to release a PR statement that outlin
 * We will be removing extremely graphic content from our site and putting a warning on potentially graphic or disturbing content to ensure the mental wellbeing of our viewers.
 This is what was released:
 
-Convo with intelligence committee
+#### Convo with intelligence committee
 * wants to know if we have information about the attacks that they can have
 * We told them to wait 
 	* Deliverables:
@@ -45,16 +46,17 @@ Convo with intelligence committee
 	* Our plan is to give public info but still need a supeana for direct messages
 		* resonse from intel
 			* coolio
-First Note
+#### First Note
+* 
 
-Convo with the EU
+#### Convo with the EU
 * detected lots of chatter about the attack especially in their countries
 * Do we have any info for them.
 
-Second Note
+#### Second Note
 * Members of congress have called for hearing on social media companies and extremist online content. They allege that social media companies are not doing enough to 
 
-World Bank
+#### World Bank
 * Pakistani gov taking in large number of refugees
 * Shia Muslim majority
 * struggling to take in refugees
@@ -63,7 +65,7 @@ World Bank
 * Is EU or US allocated any resources
 	* still formulating a response
 
-EU condemns the attack
+#### EU condemns the attack
 * will be sending healthcare food and education
 * How are they gonna get the money?
 	* tax money!
@@ -72,7 +74,7 @@ EU condemns the attack
 	* Idk
 	* goal is that countries receiving aid are responsible for the proper allocation
 
-Help from LA
+#### Help from LA
 * prolly going to get an uptick on the meeting that just happened, as in EU condemning the attack
 	* banning policies
 	* more flagging content
@@ -81,18 +83,18 @@ Help from LA
 	* Europe can be very racist in how they handle middle eastern policy
 	* state department also has racist issues and money 
 
-Human right committee announcement
+#### Human right committee announcement
 * France and Belgium are reporting that Muslim populations in Europe are experience discrimination in the form of surveillance and scrutiny from police
 
-EU response
+#### EU response
 * working with US intel
 * Dismayed by hate crimes
 * working to ensure safety of all citizens
 
-Split up to ask for money and to release a pr statement for EU 
+#### Split up to ask for money and to release a pr statement for EU 
 * PR statement goal is to update that we are asking for funding, especially in light 
 
-Talk with world bank:
+#### Talk with world bank:
 * funds and resources to flag more content, pay for more translators, etc
 * counter terrorism finance, usually to other governments
 	* doesn't want to fund because we have money
@@ -100,4 +102,12 @@ Talk with world bank:
 * offered consultants and advise
 * will get back on funding, focus on other committees first
 * mentioned that they don't have a platform for other committees to release they can help,
-	* could be used as leverage later
+	* could be used as leverage later\
+
+#### Break on day one
+* look at us and EU laws on sharing information
+* draft potential PR statements
+* get update from World bank
+* Draft response to congress and EU
+	* Congress response is more important (second note)
+* research what actual social media companies do
