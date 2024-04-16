@@ -42,6 +42,9 @@ Convo with intelligence committee
 		* With our review for content warnings
 			* Intel wants to be alerted of this
 		* DMs with keywords relating to terrorist attacks
+	* Our plan is to give public info but still need a supeana for direct messages
+		* resonse from intel
+			* coolio
 First Note
 
 Convo with the EU
@@ -49,4 +52,52 @@ Convo with the EU
 * Do we have any info for them.
 
 Second Note
-Members of content 
+* Members of congress have called for hearing on social media companies and extremist online content. They allege that social media companies are not doing enough to 
+
+World Bank
+* Pakistani gov taking in large number of refugees
+* Shia Muslim majority
+* struggling to take in refugees
+* allocated resources?
+	* waiting for more information to take action
+* Is EU or US allocated any resources
+	* still formulating a response
+
+EU condemns the attack
+* will be sending healthcare food and education
+* How are they gonna get the money?
+	* tax money!
+	* trends in past actions that prove they should be able to do this
+* how is aid going to not be taken my militants?
+	* Idk
+	* goal is that countries receiving aid are responsible for the proper allocation
+
+Help from LA
+* prolly going to get an uptick on the meeting that just happened, as in EU condemning the attack
+	* banning policies
+	* more flagging content
+	* extremist on each sides
+	* world bank may be good to get funding from to handle attack
+	* Europe can be very racist in how they handle middle eastern policy
+	* state department also has racist issues and money 
+
+Human right committee announcement
+* France and Belgium are reporting that Muslim populations in Europe are experience discrimination in the form of surveillance and scrutiny from police
+
+EU response
+* working with US intel
+* Dismayed by hate crimes
+* working to ensure safety of all citizens
+
+Split up to ask for money and to release a pr statement for EU 
+* PR statement goal is to update that we are asking for funding, especially in light 
+
+Talk with world bank:
+* funds and resources to flag more content, pay for more translators, etc
+* counter terrorism finance, usually to other governments
+	* doesn't want to fund because we have money
+* funding would be going to more niche platforms too that don't have money so that we can cooperate and help out
+* offered consultants and advise
+* will get back on funding, focus on other committees first
+* mentioned that they don't have a platform for other committees to release they can help,
+	* could be used as leverage later
