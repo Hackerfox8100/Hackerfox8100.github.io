@@ -24,7 +24,7 @@ tags:
 	 * In order to make sure we get the attention we need, it might be advantageous to offer "after action reviews" to the different committees after each ways.
 	 * The goal would be to 
 ## Day 1 (4/16)
-#### News Item 1
+ **News Item 1**
 * ISIS-K committed a deadly terrorist attack against Kabul, the capitol of Afghanistan, with a series of suicide bombers
 * 25 people were killed and 200 were injured in the three attacks
 * Afghan government associated with the Taliban government blamed attacks on ISIS-K
@@ -36,7 +36,7 @@ Our plan as the social media companies was to release a PR statement that outlin
 * We will be removing extremely graphic content from our site and putting a warning on potentially graphic or disturbing content to ensure the mental wellbeing of our viewers.
 This is what was released:
 
-#### Convo with intelligence committee
+**Convo with intelligence committee**
 * wants to know if we have information about the attacks that they can have
 * We told them to wait 
 	* Deliverables:
@@ -46,8 +46,9 @@ This is what was released:
 	* Our plan is to give public info but still need a supeana for direct messages
 		* resonse from intel
 			* coolio
-#### First Note
-* 
+
+**First Note**
+>"Online security and disinformation officers of the major social media firms are reporting an increase in activity from social media accounts associated with violent extremist groups. These group accounts have been sharing information and footage of the recent ISIS-K attack and have provided links to other websites run by ISIS-K. Security officers are also concerned about the increase in disinformation posted on social media regarding the ISIS-K attack. This includes disinformation claiming that the attack was a "false flag" attack that was caused by the US CIA."
 
 #### Convo with the EU
 * detected lots of chatter about the attack especially in their countries
