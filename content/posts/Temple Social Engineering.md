@@ -1,3 +1,12 @@
+---
+title: Temple Social Engineering Competition
+date: 2024-04-20
+categories:
+  - competitions
+tags:
+  - socialEngineering
+  - simulation
+---
 # Day 1
 ## Questions
 * Ask about client
