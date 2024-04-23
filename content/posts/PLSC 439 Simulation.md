@@ -136,7 +136,7 @@ This is what was released:
 * Europe might not like this Americanesque policy
 	* might face backlash
 
-**DOD Conversation
+**DOD Conversation**
 * couple indictments of several us army officers for sharing online extremist content
 * Military trial, handled by military (so differently and more none private)
 
@@ -169,3 +169,27 @@ Clarification on their patriot act
 * How do we approach this from a neutral standpoint?
 	* avoid labeling specific people as extremist
 * OR can you accompany us to the congress hearing to make sure human rights are an upmost concern
+
+**Conversation with congress** 
+* talked about notes 2 and clarify that we are giving an update
+* looking to flag and warn violent content
+* looked to get more funding to provide more enhanced training 
+	* nuances and how that effects viewers
+	* extremist content tech
+* talked about GDPR and how we need to work within that
+* mentioned new patriot act as well
+Response
+* previously seen a lack of ability to monitor hateful content in different languages
+* asked about AI and if that is a possibility
+	* not really a possibility because of drift and the nature of the extremist content
+* going in a good direction, not looking to pass legislation against us at the moment
+* are we looking into counter messaging
+	* intel may be able to help 
+	* Human rights wants to make sure this is neutral and walk the fine line 
+
+**Press statements at EU
+* High threat of attack in Belgium, so declared state of emergency which triggers their patriot act 
+* Does not impact refugee deal (not sure what that is)
+
+**Conversation with U.S. State Department
+* 
