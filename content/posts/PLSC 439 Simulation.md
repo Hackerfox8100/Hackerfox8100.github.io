@@ -112,3 +112,60 @@ This is what was released:
 * Draft response to congress and EU
 	* Congress response is more important (second note)
 * research what actual social media companies do
+
+## Day 2
+* GDPR: General data protection regulation
+
+**Start of day 2**
+* PR statement on how we are being extra watchful for disinformation and misconduct against Muslims and other vulnerable populations in France and Belgium as well as the global community
+* Congress: 
+	* trying to get funding for technology and training to specifically handle extremist content
+	* We are trying to work within the US laws to cooperate as much as possible 
+
+**Note 3**
+>"Online security officers from the major social media companies continue to report an increase in activity from the major social media accounts that are associated with the ISIS-K and other violent extremist organizations. More worryingly, posts and videos from ISIS-K are increasingly being shared on accounts used by US domestic extremist actors that previously have expressed little interest in ISIS-K."
+
+**US Intelligence**
+
+
+**Human Rights Committee**
+* World Bank isn't doing enough to help refugees
+
+**EU Releases own patriot act**
+* Need to get clarification on specific policies, cause this could potentially be pretty bad
+* Europe might not like this Americanesque policy
+	* might face backlash
+
+**DOD Conversation
+* couple indictments of several us army officers for sharing online extremist content
+* Military trial, handled by military (so differently and more none private)
+
+**EU Conversations**
+* any chatter about terrorist activity on the EU
+	* radical ideas, extremist content, etc.
+* Not entirely sure what they are looking for from us
+
+Clarification on their patriot act
+* period of 2 years, renewable
+* not targeting any population
+* more surveillance monitoring on social media
+* no censoring 
+	* freedom of speech is important
+* IPSs to disclose content to EU in states of emergency
+
+**Press release from social media**
+* Are you monitoring specific state or all of EU?
+	* Yes
+
+**US Intel Conversations**
+* what does EU monitoring look based on our recent press statement
+
+**Circle Back To Congress**
+* Congressional support
+	* How are we going to do it, fit both sides of content, polarized
+* Could consult human rights about best way to handle that
+
+**Conversation with Human rights**
+* How do we approach this from a neutral standpoint?
+	* avoid labeling specific people as extremist
+* OR can you accompany us to the congress hearing to make sure human rights are an upmost concern
