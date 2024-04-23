@@ -191,5 +191,9 @@ Response
 * High threat of attack in Belgium, so declared state of emergency which triggers their patriot act 
 * Does not impact refugee deal (not sure what that is)
 
+**NEWS UPDATE**
+>"A deadly terrorist attack shook the capital of Belgium today as a team of militants struck the Brussels-Zaventem airport. Belgium Federal Police report that eight people were killed in the attack and more have been injured. Authorities warn that these numbers could increase as first responders assess the situation.
+>The attack began while passengers were checking in for a flight to the United States. A group of attackers entered the ticketing area and opened fire with automatic weapons. Belgian authorities have closed the airport and have grounded flights nationally...
+
 **Conversation with U.S. State Department
 * 
