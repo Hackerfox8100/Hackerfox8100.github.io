@@ -43,21 +43,21 @@ This is what was released:
 		* With our review for content warnings
 			* Intel wants to be alerted of this
 		* DMs with keywords relating to terrorist attacks
-	* Our plan is to give public info but still need a supeana for direct messages
-		* resonse from intel
+	* Our plan is to give public info but still need a subpoena for direct messages
+		* response from intel
 			* coolio
 
 **First Note**
 >"Online security and disinformation officers of the major social media firms are reporting an increase in activity from social media accounts associated with violent extremist groups. These group accounts have been sharing information and footage of the recent ISIS-K attack and have provided links to other websites run by ISIS-K. Security officers are also concerned about the increase in disinformation posted on social media regarding the ISIS-K attack. This includes disinformation claiming that the attack was a "false flag" attack that was caused by the US CIA."
 
-#### Convo with the EU
+**Convo with the EU**
 * detected lots of chatter about the attack especially in their countries
 * Do we have any info for them.
 
-#### Second Note
-* Members of congress have called for hearing on social media companies and extremist online content. They allege that social media companies are not doing enough to 
+**Second Note**
+>"Members of congress have called for hearings on social media companies and extremist online content. They allege that social media companies are not doing enough to combat extremist content and are not cooperating enough with authorities. Similar hearings are planned for parliaments in European countries."
 
-#### World Bank
+**World Bank**
 * Pakistani gov taking in large number of refugees
 * Shia Muslim majority
 * struggling to take in refugees
@@ -66,7 +66,7 @@ This is what was released:
 * Is EU or US allocated any resources
 	* still formulating a response
 
-#### EU condemns the attack
+**EU condemns the attack**
 * will be sending healthcare food and education
 * How are they gonna get the money?
 	* tax money!
@@ -75,7 +75,7 @@ This is what was released:
 	* Idk
 	* goal is that countries receiving aid are responsible for the proper allocation
 
-#### Help from LA
+**Help from LA**
 * prolly going to get an uptick on the meeting that just happened, as in EU condemning the attack
 	* banning policies
 	* more flagging content
@@ -84,18 +84,18 @@ This is what was released:
 	* Europe can be very racist in how they handle middle eastern policy
 	* state department also has racist issues and money 
 
-#### Human right committee announcement
+**Human right committee announcement**
 * France and Belgium are reporting that Muslim populations in Europe are experience discrimination in the form of surveillance and scrutiny from police
 
-#### EU response
+**EU response**
 * working with US intel
 * Dismayed by hate crimes
 * working to ensure safety of all citizens
 
-#### Split up to ask for money and to release a pr statement for EU 
+**Split up to ask for money and to release a pr statement for EU**
 * PR statement goal is to update that we are asking for funding, especially in light 
 
-#### Talk with world bank:
+**Talk with world bank:**
 * funds and resources to flag more content, pay for more translators, etc
 * counter terrorism finance, usually to other governments
 	* doesn't want to fund because we have money
