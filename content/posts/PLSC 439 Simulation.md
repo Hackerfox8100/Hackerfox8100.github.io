@@ -113,7 +113,7 @@ This is what was released:
 	* Congress response is more important (second note)
 * research what actual social media companies do
 
-## Day 2
+## Day 2 (4/23)
 * GDPR: General data protection regulation
 
 **Start of day 2**
@@ -187,13 +187,21 @@ Response
 	* intel may be able to help 
 	* Human rights wants to make sure this is neutral and walk the fine line 
 
-**Press statements at EU
+**Press statements at EU**
 * High threat of attack in Belgium, so declared state of emergency which triggers their patriot act 
 * Does not impact refugee deal (not sure what that is)
 
 **NEWS UPDATE**
 >"A deadly terrorist attack shook the capital of Belgium today as a team of militants struck the Brussels-Zaventem airport. Belgium Federal Police report that eight people were killed in the attack and more have been injured. Authorities warn that these numbers could increase as first responders assess the situation.
->The attack began while passengers were checking in for a flight to the United States. A group of attackers entered the ticketing area and opened fire with automatic weapons. Belgian authorities have closed the airport and have grounded flights nationally...
+>
+>The attack began while passengers were checking in for a flight to the United States. A group of attackers entered the ticketing area and opened fire with automatic weapons. Belgian authorities have closed the airport and have grounded flights nationally.
+>
+>Immediately after the attack, the Islamic State of Khorasan (ISIS-K) claimed responsibility for the assault on a social media site. "This is the first of many strikes we will make. We struck the near enemy. Now we have struck the far enemy."
+>
+>The perpetrators of the attack escaped and are at large. The Belgian Federal Police is conducting a nationwide hunt. Authorities have not indicated whether the assailants were living in Belgium or had come from abroad before the attack."
 
-**Conversation with U.S. State Department
-* 
+**Conversation with U.S. State Department**
+* todo
+
+## Day 3 (4/25)
+
