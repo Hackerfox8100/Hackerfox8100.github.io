@@ -205,3 +205,25 @@ Response
 
 ## Day 3 (4/25)
 
+**Goals for Press Briefing**
+* We have been cooperating with U.S. Intelligence as much as possible within the laws
+	* Access to public posts/messaging but not private direct messages.
+* Monitoring the EU and how they implement their new patriot act  
+	* We are not currently concerned since their state of emergency has them working with internet service providers (ISPs) which is above our juris
+* Conversation with Congress about extremist content on social media and cooperation with human rights committee
+* Asking U.S. State department for assistance with translators
+	* Agreed to send over translators to help flag and remove extremist content
+* Asking U.S. State department about counter messaging 
+	* Keeping human rights in the loop for counter messaging
+* Overall we have been working to closely monitor content to flag or remove extremist or graphic content that poses a threat to our users
+
+**Human rights convo**
+* anti-Muslim messaging on several social platforms
+* US, Europe, and India
+* Wanted to bring to our attention
+
+**US State Department**
+* 
+* Just increased funding to cultural education programs to bolster translating capacity
+	* funding is from world bank
+* Agreed to help send over translators to flag and remove extremist content
