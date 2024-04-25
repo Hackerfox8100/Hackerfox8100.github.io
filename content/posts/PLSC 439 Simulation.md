@@ -223,7 +223,91 @@ Response
 * Wanted to bring to our attention
 
 **US State Department**
-* 
+* Wanted to check in on how we were handling the recent events
 * Just increased funding to cultural education programs to bolster translating capacity
 	* funding is from world bank
 * Agreed to help send over translators to flag and remove extremist content
+
+**Brainstorm Questions from Committees**
+* how are we differentiating on what extremist content is flagged, is it neutral
+* how can you limit extremist content without restricting free speech
+
+**Final Briefings**
+* DoD
+	* still not sending in any forces
+	* increasing airport security
+	* conducted target air strikes against ISIS-K
+	* Bases in turkey and Europe
+	* waiting for more information before considering deploying troops
+	* more likely to provide assistance after a clear conversation
+	* *How much was ISIS-K degraded with airstrikes?
+		* Reliable intel on ground
+		* no civilian casualties
+		* several higher ups in Afghanistan killed
+	* *What are you doing to protect the civilian population
+		* Not really our job
+		* Increased base security domestically
+	* *Updates or intel on turkey bases
+		* hundred percent ID checks
+		* only military personnel
+* U.S. Intelligence
+	* alerted state department and DOD of attack reports
+	* met with president
+	* Got funding from world bank to do this
+	* no current danger to U.S. citizens
+	* EU did not take action with info they gave about the attack
+	* *Is the US currently at risk
+		* No
+		* Always a risk, but no state side evidence yet
+	* *shared intel with the EU that was not acted upon, how has that changed how you are proceeding
+		* still attempting to share intelligence and create more robust avenues to share
+	* *What are you seeing in terms of online chatter
+		* Working with social media, we have been giving updates
+	* *What is in mind for DoD to help with security
+		* if they receive a credible threat, deployment of national guard or other personnel
+	* *Where are you getting the money from after the funds from world bank are used
+		* U.S. tax dollars
+* U.S. State Department
+	* Condemned terrorist attacks
+	* announced  collab with EU
+	* met with Pakistan addressing concerns of increased violence
+		* established open comms with them
+	* have been working with social media companies to monitor anti-Islamic extremism in the united states
+	* world bank to bolster cultural and translating capacity
+		* helps us work with social media
+	* generally lacking general resources for critical language support
+		* helps to address both current and long term issues
+	* in terms of the humanitarian crisis, taking in 20% of refugees
+		* funding from world bank to help with assimilation of refugees
+	* potential for backlash, so monitoring social media
+	* *20% of refugees, what does a refugee look like, is there a risk assessment
+		* making sure they have shelter water and resources
+		* monitoring both their safety and citizen's safety
+		* they have a really strong vetting system in the US
+		* not a thing they have done historically, but the humanitarian crisis is really bad
+	* *What is the population number, how are you arranging for the transportation of them into the country
+		* Details still being worked out, will come to DoD to make sure they are on the same page
+	* *Refugees to EU, New Zealand, and Australia, how are the refugees being split?
+		* At this moment they have agreed to that, but it is still an open discussion
+	* *Where are you putting them and keeping them safe
+		* still working out the details
+	* *How are diplomatic relations with countries involved at this time
+		* good relationship with Pakistan
+			* especially with financing
+		* Not cooperating with current Afghan government or Iran
+		* Working with EU
+* EU
+* Human Rights
+	* Anti Islamic hate stance
+		* especially in countries in the EU
+		* encourage EU having a hard stance, maybe criminalize Islamic hate like they did during COVID with Asian hate 
+	* Refugee approach
+		* urging others to continue to honor previous pledges
+	* *are you working with social media countries
+		* continuing to monitor and bring to social media attentions so that we can act
+	* *Election of far right political party in EU, concerns? also in US?
+		* Education and taking down a platform of hate
+	* *Lobbying state side? What're you doing domestically
+		* sat in with social media companies to talk with congress
+		* working with world bank to make sure the proper packages are approved
+* World Bank
