@@ -287,7 +287,7 @@ Response
 		* not a thing they have done historically, but the humanitarian crisis is really bad
 	* *What is the population number, how are you arranging for the transportation of them into the country
 		* Details still being worked out, will come to DoD to make sure they are on the same page
-	* *Refugees to EU, New Zealand, and Australia, how are the refugees being split?
+	* *Refugees to EU, New Zealand, Canada, and Australia, how are the refugees being split?
 		* At this moment they have agreed to that, but it is still an open discussion
 	* *Where are you putting them and keeping them safe
 		* still working out the details
@@ -297,6 +297,32 @@ Response
 		* Not cooperating with current Afghan government or Iran
 		* Working with EU
 * EU
+	* extend deepest condolences
+	* declared state of emergency
+		* implemented a version of the patriot act
+	* monitoring social media, phone interactions, etc across the EU
+	* Increased powers are temporary
+	* freedom of speech is still important
+	* measures should be proportional to threat level
+	* efforts focused on capturing those who are responsible
+	* committed to religious expressions of all EU citizen
+	* Claims from US Intel on their response
+		* EU did act on intelligence
+		* egaged established surveliance programs
+		* acted with necessary caution
+		* manpower is employed judiciously
+		* Do not believe it could have been prevented
+			* not enough detail to take action
+	* Focus on protecting the Islamic communities
+	* *Perpetrators are at large, can US help?
+		* can't share specifics because it is a public briefing
+	* *Still committed to taking in refugees, is this wise with the attacks that have happened?
+		* still committed to helping innocents whenever possible
+		* help from other countries will help us ensure more than can be handled won't be taken in
+	* *Influx of refugees, will it help make the perpetrators remain hidden
+		* not really a concern at this time with intel they have
+		* refugees are being vetted
+	* *
 * Human Rights
 	* Anti Islamic hate stance
 		* especially in countries in the EU
