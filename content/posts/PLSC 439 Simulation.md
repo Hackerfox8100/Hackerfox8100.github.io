@@ -300,7 +300,7 @@ Response
 	* extend deepest condolences
 	* declared state of emergency
 		* implemented a version of the patriot act
-	* monitoring social media, phone interactions, etc across the EU
+	* monitoring social media, phone interactions, etc. across the EU
 	* Increased powers are temporary
 	* freedom of speech is still important
 	* measures should be proportional to threat level
@@ -308,7 +308,7 @@ Response
 	* committed to religious expressions of all EU citizen
 	* Claims from US Intel on their response
 		* EU did act on intelligence
-		* egaged established surveliance programs
+		* engaged established surveillance programs
 		* acted with necessary caution
 		* manpower is employed judiciously
 		* Do not believe it could have been prevented
@@ -322,7 +322,14 @@ Response
 	* *Influx of refugees, will it help make the perpetrators remain hidden
 		* not really a concern at this time with intel they have
 		* refugees are being vetted
-	* *
+	* *beyond countries in the EU and US, is there any other collaborations
+		* not particularly
+		* UK they suppose
+	* *Didn't receive specific attack information, it wasn't meant to be an order of what you need to do, it was meant to inform you. You should have increased security in your airports
+		* Appreciated the advice but they have it handled
+		* could have done better, but at the time they had faith in their security infrastructure
+	* *How are you making sure your countries are protecting religious freedoms and ability to practice cultural stuff
+		* passed a previous charter about fundamental human rights
 * Human Rights
 	* Anti Islamic hate stance
 		* especially in countries in the EU
@@ -336,4 +343,33 @@ Response
 	* *Lobbying state side? What're you doing domestically
 		* sat in with social media companies to talk with congress
 		* working with world bank to make sure the proper packages are approved
+* Social Media
+	* EU
+		* legality of receiving info from companies?
+	* US State
+		* taking public stances? Share this with users?
+			* in our policies
+	* Intel
+		* X has been difficult recently, how are we navigating different companies beliefs
+			* just trying to keep the world up to date
 * World Bank
+	* 200 mil aid packages
+		* UN high commission
+		* world food program
+		* UNICEF
+		* doctors without borders
+	* 50 mil loan for refugee help and mitigation
+	* Sending funds through reputable sources
+	* need help establishing border security to get funds and resources over
+	* *Have you received any backlash?
+		* no
+	* *how to you manage private groups
+		* align well with what their goals are
+		* they just give them the money over time with certain goals
+			* won't continue to give money if they don't meet goals
+	* *allocated a certain amount of resources to UN security
+		* not funding they have a history with
+		* something they want to work towards
+	* *misappropriation of funds?
+		* always a possibility
+		* that's why they waited until now to announce aid package
