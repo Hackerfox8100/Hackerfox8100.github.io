@@ -24,7 +24,7 @@ tags:
 	 * In order to make sure we get the attention we need, it might be advantageous to offer "after action reviews" to the different committees after each ways.
 	 * The goal would be to 
 ## Day 1 (4/16)
- **News Item 1**
+#### News Item 1
 * ISIS-K committed a deadly terrorist attack against Kabul, the capitol of Afghanistan, with a series of suicide bombers
 * 25 people were killed and 200 were injured in the three attacks
 * Afghan government associated with the Taliban government blamed attacks on ISIS-K
@@ -47,14 +47,14 @@ This is what was released:
 		* response from intel
 			* coolio
 
-**First Note**
+#### First Note
 >"Online security and disinformation officers of the major social media firms are reporting an increase in activity from social media accounts associated with violent extremist groups. These group accounts have been sharing information and footage of the recent ISIS-K attack and have provided links to other websites run by ISIS-K. Security officers are also concerned about the increase in disinformation posted on social media regarding the ISIS-K attack. This includes disinformation claiming that the attack was a "false flag" attack that was caused by the US CIA."
 
 **Convo with the EU**
 * detected lots of chatter about the attack especially in their countries
 * Do we have any info for them.
 
-**Second Note**
+#### Second Note
 >"Members of congress have called for hearings on social media companies and extremist online content. They allege that social media companies are not doing enough to combat extremist content and are not cooperating enough with authorities. Similar hearings are planned for parliaments in European countries."
 
 **World Bank**
@@ -122,7 +122,7 @@ This is what was released:
 	* trying to get funding for technology and training to specifically handle extremist content
 	* We are trying to work within the US laws to cooperate as much as possible 
 
-**Note 3**
+#### Third Note
 >"Online security officers from the major social media companies continue to report an increase in activity from the major social media accounts that are associated with the ISIS-K and other violent extremist organizations. More worryingly, posts and videos from ISIS-K are increasingly being shared on accounts used by US domestic extremist actors that previously have expressed little interest in ISIS-K."
 
 **US Intelligence**
@@ -191,7 +191,7 @@ Response
 * High threat of attack in Belgium, so declared state of emergency which triggers their patriot act 
 * Does not impact refugee deal (not sure what that is)
 
-**NEWS UPDATE**
+#### News Item 2
 >"A deadly terrorist attack shook the capital of Belgium today as a team of militants struck the Brussels-Zaventem airport. Belgium Federal Police report that eight people were killed in the attack and more have been injured. Authorities warn that these numbers could increase as first responders assess the situation.
 >
 >The attack began while passengers were checking in for a flight to the United States. A group of attackers entered the ticketing area and opened fire with automatic weapons. Belgian authorities have closed the airport and have grounded flights nationally.
