@@ -240,14 +240,14 @@ Response
 	* Bases in turkey and Europe
 	* waiting for more information before considering deploying troops
 	* more likely to provide assistance after a clear conversation
-	* *How much was ISIS-K degraded with airstrikes?
+	* *How much was ISIS-K degraded with airstrikes?*
 		* Reliable intel on ground
 		* no civilian casualties
 		* several higher ups in Afghanistan killed
-	* *What are you doing to protect the civilian population
+	* *What are you doing to protect the civilian population*
 		* Not really our job
 		* Increased base security domestically
-	* *Updates or intel on turkey bases
+	* *Updates or intel on turkey bases*
 		* hundred percent ID checks
 		* only military personnel
 * U.S. Intelligence
@@ -256,16 +256,16 @@ Response
 	* Got funding from world bank to do this
 	* no current danger to U.S. citizens
 	* EU did not take action with info they gave about the attack
-	* *Is the US currently at risk
+	* *Is the US currently at risk*
 		* No
 		* Always a risk, but no state side evidence yet
-	* *shared intel with the EU that was not acted upon, how has that changed how you are proceeding
+	* *shared intel with the EU that was not acted upon, how has that changed how you are proceeding*
 		* still attempting to share intelligence and create more robust avenues to share
-	* *What are you seeing in terms of online chatter
+	* *What are you seeing in terms of online chatter*
 		* Working with social media, we have been giving updates
-	* *What is in mind for DoD to help with security
+	* *What is in mind for DoD to help with security*
 		* if they receive a credible threat, deployment of national guard or other personnel
-	* *Where are you getting the money from after the funds from world bank are used
+	* *Where are you getting the money from after the funds from world bank are used*
 		* U.S. tax dollars
 * U.S. State Department
 	* Condemned terrorist attacks
@@ -280,18 +280,18 @@ Response
 	* in terms of the humanitarian crisis, taking in 20% of refugees
 		* funding from world bank to help with assimilation of refugees
 	* potential for backlash, so monitoring social media
-	* *20% of refugees, what does a refugee look like, is there a risk assessment
+	* *20% of refugees, what does a refugee look like, is there a risk assessment*
 		* making sure they have shelter water and resources
 		* monitoring both their safety and citizen's safety
 		* they have a really strong vetting system in the US
 		* not a thing they have done historically, but the humanitarian crisis is really bad
-	* *What is the population number, how are you arranging for the transportation of them into the country
+	* *What is the population number, how are you arranging for the transportation of them into the country*
 		* Details still being worked out, will come to DoD to make sure they are on the same page
-	* *Refugees to EU, New Zealand, Canada, and Australia, how are the refugees being split?
+	* *Refugees to EU, New Zealand, Canada, and Australia, how are the refugees being split?*
 		* At this moment they have agreed to that, but it is still an open discussion
-	* *Where are you putting them and keeping them safe
+	* *Where are you putting them and keeping them safe*
 		* still working out the details
-	* *How are diplomatic relations with countries involved at this time
+	* *How are diplomatic relations with countries involved at this time*
 		* good relationship with Pakistan
 			* especially with financing
 		* Not cooperating with current Afghan government or Iran
@@ -314,21 +314,21 @@ Response
 		* Do not believe it could have been prevented
 			* not enough detail to take action
 	* Focus on protecting the Islamic communities
-	* *Perpetrators are at large, can US help?
+	* *Perpetrators are at large, can US help?*
 		* can't share specifics because it is a public briefing
-	* *Still committed to taking in refugees, is this wise with the attacks that have happened?
+	* *Still committed to taking in refugees, is this wise with the attacks that have happened?*
 		* still committed to helping innocents whenever possible
 		* help from other countries will help us ensure more than can be handled won't be taken in
-	* *Influx of refugees, will it help make the perpetrators remain hidden
+	* *Influx of refugees, will it help make the perpetrators remain hidden*
 		* not really a concern at this time with intel they have
 		* refugees are being vetted
-	* *beyond countries in the EU and US, is there any other collaborations
+	* *beyond countries in the EU and US, is there any other collaborations*
 		* not particularly
 		* UK they suppose
-	* *Didn't receive specific attack information, it wasn't meant to be an order of what you need to do, it was meant to inform you. You should have increased security in your airports
+	* *Didn't receive specific attack information, it wasn't meant to be an order of what you need to do, it was meant to inform you. You should have increased security in your airports*
 		* Appreciated the advice but they have it handled
 		* could have done better, but at the time they had faith in their security infrastructure
-	* *How are you making sure your countries are protecting religious freedoms and ability to practice cultural stuff
+	* *How are you making sure your countries are protecting religious freedoms and ability to practice cultural stuff*
 		* passed a previous charter about fundamental human rights
 * Human Rights
 	* Anti Islamic hate stance
@@ -336,11 +336,11 @@ Response
 		* encourage EU having a hard stance, maybe criminalize Islamic hate like they did during COVID with Asian hate 
 	* Refugee approach
 		* urging others to continue to honor previous pledges
-	* *are you working with social media countries
+	* *are you working with social media countries*
 		* continuing to monitor and bring to social media attentions so that we can act
-	* *Election of far right political party in EU, concerns? also in US?
+	* *Election of far right political party in EU, concerns? also in US?*
 		* Education and taking down a platform of hate
-	* *Lobbying state side? What're you doing domestically
+	* *Lobbying state side? What're you doing domestically*
 		* sat in with social media companies to talk with congress
 		* working with world bank to make sure the proper packages are approved
 * Social Media
@@ -361,15 +361,15 @@ Response
 	* 50 mil loan for refugee help and mitigation
 	* Sending funds through reputable sources
 	* need help establishing border security to get funds and resources over
-	* *Have you received any backlash?
+	* *Have you received any backlash?*
 		* no
-	* *how to you manage private groups
+	* *how to you manage private groups*
 		* align well with what their goals are
 		* they just give them the money over time with certain goals
 			* won't continue to give money if they don't meet goals
-	* *allocated a certain amount of resources to UN security
+	* *allocated a certain amount of resources to UN security*
 		* not funding they have a history with
 		* something they want to work towards
-	* *misappropriation of funds?
+	* *misappropriation of funds?*
 		* always a possibility
 		* that's why they waited until now to announce aid package
